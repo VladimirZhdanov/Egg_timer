@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var progressView: MyProgressView!
     
     private let eggTimes = [
-        "Soft": 5 * 1,
+        "Soft": 5 * 60,
         "Medium": 8 * 60,
         "Hard": 12 * 60
     ]
